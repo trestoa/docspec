@@ -1,0 +1,24 @@
+{
+  "name": "docspec",
+  "version": "1.0.0",
+  "description": "Combine documentation and testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trestoa/docspec.git"
+  },
+  "keywords": [
+    "documentation",
+    "specification",
+    "testing"
+  ],
+  "author": "Markus Klein <m@mklein.co.at>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/trestoa/docspec/issues"
+  },
+  "homepage": "https://github.com/trestoa/docspec#readme"
+}
